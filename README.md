@@ -8,7 +8,7 @@ My work sits somewhere between software engineering, systems, personal knowledge
 
 - AI-assisted operating systems for personal work, planning, memory, and follow-through
 - Local-first knowledge systems that turn raw notes into durable, queryable context
-- Agent workflows for inbox, calendar, repositories, research, and editorial production
+- Agent workflows for inbox, calendar, repositories, research, and production
 - Private tools for finance, operations, and recurring life admin
 - Narrative and simulation systems where state, memory, and consequence matter
 - Crypto, Bitcoin, decentralization, governance, and media analysis
